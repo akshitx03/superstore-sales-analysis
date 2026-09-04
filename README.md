@@ -1,2 +1,2 @@
 # superstore-sales-analysis
-superstore sales analysis using excel,python(pandas) and sql
+superstore sales analysis using excel and sql
