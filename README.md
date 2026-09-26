@@ -1,13 +1,14 @@
-Superstore Sales Analysis
+Superstore Sales Analysis using Power BI, Excel & SQL
 
 Project Overview
 
-This project analyzes the Superstore sales dataset using Excel and SQL to identify sales, profit, customer, product, regional, shipping, and discount-related insights.
+This project analyzes the Superstore sales dataset using Power BI, Excel, and SQL to identify sales, profit, customer, product, regional, shipping, and discount-related insights.
 
 The dataset contains 10,194 sales records and 21 columns.
 
 Tools Used
 
+- Microsoft Power BI
 - Microsoft Excel
 - MySQL
 - SQL
@@ -50,19 +51,52 @@ The SQL project includes analysis of:
 - Profit margin analysis
 - Business-focused analysis
 
+Power BI Analysis
+
+The cleaned Superstore dataset was used to create an interactive Power BI dashboard.
+
+The Power BI dashboard includes:
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Customer Count
+- Sales by Category
+- Sales by Segment
+- Profit by Segment
+- Sales by Customer
+- Sales by Sub-Category
+- Interactive slicers for Category, Segment, and Region
+- KPI cards and data visualizations
+
+The dashboard allows users to interactively explore sales and profitability across different categories, customer segments, regions, customers, and sub-categories.
+
 Dataset
 
 The dataset used in this project is the Superstore sales dataset.
 
-The CSV file included in this repository is the cleaned version of the dataset used for the Excel and SQL analysis.
+The CSV file included in this repository is the cleaned version of the dataset used for the Power BI, Excel, and SQL analysis.
 
 Project Files
 
 - "Superstore_SQL_Analysis.sql" — SQL queries used for data analysis
 - "superstore cleaned.csv" — Cleaned Superstore dataset
+- "Superstore_Sales_Dashboard.pbix" — Power BI dashboard
 - "README.md" — Project documentation
 
 Key Skills Demonstrated
+
+Power BI
+
+- Data visualization
+- KPI cards
+- Interactive dashboards
+- Slicers
+- Sales and profit analysis
+- Customer and segment analysis
+- Category and sub-category analysis
+- Dashboard design
 
 Excel
 
@@ -93,4 +127,5 @@ SQL
 
 Project Objective
 
-The objective of this project is to demonstrate practical skills in data cleaning, data analysis, SQL querying, Excel reporting, Pivot Tables, data visualization, and dashboard creation using a real-world-style sales dataset.
+The objective of this project is to demonstrate practical skills in data cleaning, data analysis, SQL querying, Excel reporting, Pivot Tables, Power BI dashboard creation, data visualization, and business-focused analysis using a real-world-style sales dataset.
+
